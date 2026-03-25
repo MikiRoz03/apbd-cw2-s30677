@@ -51,3 +51,6 @@ Dzięki temu można zmienić logikę bez zmiany modeli.
 
 ## Uruchomienie
 Projekt można uruchomić w Riderze albo przez dotnet run.
+
+## Dodatkowa informacja
+Po zamknięciu programu ddane nie są zapisywane na stałe.
