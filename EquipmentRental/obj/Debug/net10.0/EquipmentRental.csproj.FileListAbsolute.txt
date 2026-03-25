@@ -1,0 +1,15 @@
+C:\Users\zajce\RiderProjects\apbd-cw2-s30677\EquipmentRental\bin\Debug\net10.0\EquipmentRental.exe
+C:\Users\zajce\RiderProjects\apbd-cw2-s30677\EquipmentRental\bin\Debug\net10.0\EquipmentRental.deps.json
+C:\Users\zajce\RiderProjects\apbd-cw2-s30677\EquipmentRental\bin\Debug\net10.0\EquipmentRental.runtimeconfig.json
+C:\Users\zajce\RiderProjects\apbd-cw2-s30677\EquipmentRental\bin\Debug\net10.0\EquipmentRental.dll
+C:\Users\zajce\RiderProjects\apbd-cw2-s30677\EquipmentRental\bin\Debug\net10.0\EquipmentRental.pdb
+C:\Users\zajce\RiderProjects\apbd-cw2-s30677\EquipmentRental\obj\Debug\net10.0\EquipmentRental.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zajce\RiderProjects\apbd-cw2-s30677\EquipmentRental\obj\Debug\net10.0\EquipmentRental.AssemblyInfoInputs.cache
+C:\Users\zajce\RiderProjects\apbd-cw2-s30677\EquipmentRental\obj\Debug\net10.0\EquipmentRental.AssemblyInfo.cs
+C:\Users\zajce\RiderProjects\apbd-cw2-s30677\EquipmentRental\obj\Debug\net10.0\EquipmentRental.csproj.CoreCompileInputs.cache
+C:\Users\zajce\RiderProjects\apbd-cw2-s30677\EquipmentRental\obj\Debug\net10.0\EquipmentRental.sourcelink.json
+C:\Users\zajce\RiderProjects\apbd-cw2-s30677\EquipmentRental\obj\Debug\net10.0\EquipmentRental.dll
+C:\Users\zajce\RiderProjects\apbd-cw2-s30677\EquipmentRental\obj\Debug\net10.0\refint\EquipmentRental.dll
+C:\Users\zajce\RiderProjects\apbd-cw2-s30677\EquipmentRental\obj\Debug\net10.0\EquipmentRental.pdb
+C:\Users\zajce\RiderProjects\apbd-cw2-s30677\EquipmentRental\obj\Debug\net10.0\EquipmentRental.genruntimeconfig.cache
+C:\Users\zajce\RiderProjects\apbd-cw2-s30677\EquipmentRental\obj\Debug\net10.0\ref\EquipmentRental.dll
